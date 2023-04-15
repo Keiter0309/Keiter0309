@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+html {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    scroll-behavior: smooth;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav li {
+    width: 369px;
+    float: left;
+    list-style-type: none;
+}
+
+nav a {
+    border: 1px solid royalblue;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    color:darkblue ;
+    text-transform: uppercase;
+    line-height: 60px;
+    transition: ease-in .5s;
+}
+
+nav li:hover a {
+    color: white;
+    background-color: darkblue;
+}
