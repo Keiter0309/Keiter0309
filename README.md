@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Keiter0309/Keiter0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Optional: Add a short intro here about yourself -->
 
-Here are some ideas to get you started:
+<!-- Add the header image at the top -->
+<p align="center">
+  <img src="./header.png" alt="Header Image" width="600">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on the **Dictiohub Dictionary project** 📖  
+- 🌱 I’m currently learning **React, TypeScript, Next.js, NestJS, and AWS**  
+- 👯 I’m looking to collaborate on **projects involving scalable web applications and cloud solutions**  
+- 🤔 I’m looking for help with **optimizing application performance and leveraging AWS services effectively**  
+- 💬 Ask me about **web development, RESTful APIs, AWS, and TypeScript tips**  
+- 📫 How to reach me: **vuongtuankiet33@gmail.com**  
+- 😄 Pronouns: **He/Him**  
