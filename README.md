@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!-- Optional: Add a short intro here about yourself -->
 
