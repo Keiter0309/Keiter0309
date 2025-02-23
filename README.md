@@ -6,7 +6,7 @@
   <img src="./header.png" alt="Header Image" width="600">
 </p>
 
-- 🔭 I’m currently working on the **Dictiohub Dictionary project** 📖  
+- 🔭 I’m currently working on the **Ecommerce project** 📖  
 - 🌱 I’m currently learning **React, TypeScript, Next.js, NestJS, and AWS**  
 - 👯 I’m looking to collaborate on **projects involving scalable web applications and cloud solutions**  
 - 🤔 I’m looking for help with **optimizing application performance and leveraging AWS services effectively**  
